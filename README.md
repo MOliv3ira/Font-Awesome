@@ -90,3 +90,5 @@ learn about Font Awesome.
 ## Team
 
 https://github.com/orgs/FortAwesome/people
+
+Reviewed by Marcus Oliveira
